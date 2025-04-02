@@ -17,23 +17,14 @@ require_once("sconnection.php");
        if($query){
 
 
-        echo "value postt";
-       }else{
+    //     echo "value postt";
+    //    }else{
 
-        echo "failed";
-       }
+    //     echo "failed";
+    //    }
     }
 
     ?>
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
